@@ -6,7 +6,7 @@ A financial forecasting project comparing three different approaches to stock pr
 
 ## Project Overview
 
-This project explores how different models can be used to analyze and forecast stock prices. I built three models to compare their approaches and understand their strengths and limitations, from a simple baseline to a curved AI model to a real-world trading indicator.
+This project explores how different regression models can be used to analyze and forecast stock prices. I built three models to compare their approaches and understand their strengths and limitations, from a simple baseline to a curved AI model to a real-world trading indicator.
 
 ---
 
